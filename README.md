@@ -1,5 +1,5 @@
 # notion-plantuml
-Generates PlantUML diagram (PNG) from Notion code block using Notion API and kroki.io.
+Generates PlantUML diagram (PNG) from Notion code block using Notion API and [Kroki](https://kroki.io).
 
 This script needs to be run outside, accessible by Notion and able to access the Notion API. 
 
